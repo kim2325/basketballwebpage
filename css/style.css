@@ -1,0 +1,200 @@
+.box1 {
+  height: 100vh;
+  width: 100%;
+  background-image: url("../images/background1.jpg");
+  background-size: cover;
+  background-position: center;
+  display: table;
+  background-attachment: fixed;
+}
+
+.box2 {
+  height: 100vh;
+  width: 100%;
+  background-image: url("../images/background2.jpg");
+  background-size: cover;
+  background-position: center;
+  display: table;
+  background-attachment: fixed;
+}
+
+.box3 {
+  height: 100vh;
+  width: 100%;
+  background-image: url("../images/background3.jpg");
+  background-size: cover;
+  background-position: center;
+  display: table;
+  background-attachment: fixed;
+}
+
+.image-container {
+  position:absolute;
+  left:40%;
+  top:150%;
+  margin-left:-50px;
+  margin-top:-50px;
+}
+
+.home-video-container {
+  position:absolute;
+  left:32%;
+  top:32%;
+  margin-left:-50px;
+  margin-top:-50px;
+}
+
+.team-container {
+  margin: 30 auto;
+  width: 1200;
+  height: 900;
+  text-align: left;
+  background-color: blue;
+  padding: 20px;
+}
+
+#container {
+  margin: 30 auto;
+  width: 800;
+  height: 900;
+  text-align: left;
+  background-color: white;
+  padding: 20px;
+}
+
+.conference-content {
+  margin: 50;
+  line-height: 0.5;
+}
+
+#western-conference-container {
+  margin: 30;
+  width: 400;
+  height: 900;
+  text-align: left;
+  background-color: white;
+  padding: 20px;
+  margin-left: 490; 
+  margin-top: -970;
+}
+
+#eastern-conference-container {
+  margin: 30;
+  width: 400;
+  height: 900;
+  text-align: left;
+  background-color: white;
+  padding: 20px;
+  position: right;
+}
+
+.eastern-title {
+  color: blue;
+}
+
+.home-content {
+  line-height: 2.0;
+  background-color: white;
+}
+
+.mySlides {
+  display:none
+}
+
+.w3-left, .w3-right, .w3-badge {
+  cursor:pointer
+}
+
+.w3-badge {
+  height:13px;
+  width:13px;
+  padding:0
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+	text-align: center;
+  line-height: 1.6;
+}
+
+h3 {
+  text-decoration-color: black;
+}
+
+h4 {
+  color: green;
+}
+
+body, html {
+  height: 100%;
+  padding: 0;
+  margin: 0px;
+}
+
+ul {
+  list-style-type: none;
+  padding: none;
+  overflow: hidden;
+  background-color: gray;
+  text-align: center;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  transition: 0.5s;
+  width: 100px;
+}
+
+li a:hover {
+  background-color: white;
+}
+
+
+.nav ul {
+	list-style-type: none;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+
+.content h1 {
+  color: green;
+}
+
+img {
+  float: left;
+  padding: 0;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: blue;
+}
+
+a:active {
+  color: red;
+}
+
+a {
+  text-decoration: none
+}
+
